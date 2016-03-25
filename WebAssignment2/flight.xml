@@ -1,0 +1,35 @@
+<?xml version="1.0"  encoding="utf-8"?>
+
+<flightDatabase title="Toronto">
+	<destination name="New Delhi">
+		<city> New Delhi </city>
+		<country> India </country>
+        <picture src="themes/images/delhi.jpg"/>
+		<description>Delhi, India’s capital territory, is a massive metropolitan area in the country’s north.  </description>
+		<airline> Air Canada </airline>
+		<time> 6:00pm</time>
+		<cost> $1400 </cost>
+	</destination>
+	
+	<destination name="Melbourne">
+		<city> Melbourne </city>
+		<country> Australia </country>
+        <picture src="themes/images/melbourne.jpg"/>
+		<description>Melbourne, Victoria’s coastal capital, is a city of stately 19th-century buildings and tree-lined boulevards</description>
+		<airline> Air Canada </airline>
+		<time> 9:10pm </time>
+		<cost> $1347 </cost>
+	</destination>
+	
+	<destination name="Barcelona">
+		<city> Barcelona </city>
+		<country> Spain </country>
+        <picture src="themes/images/barcelona.jpg"/>
+		<description>Barcelona, the cosmopolitan capital of Spain’s Catalonia region, is defined by quirky art and architecture, imaginative food and vibrant street life. .</description>
+		<airline> Air Canada </airline>
+		<time> 8:10am </time>
+		<cost> $350 </cost>
+	</destination>
+	
+	       
+</flightDatabase>	
